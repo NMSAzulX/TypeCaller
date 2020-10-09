@@ -6,10 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DotNetCore.Natasha" Version="4.0.0-alpha1" />
-    <PackageReference Include="DotNetCore.Natasha.CSharpCompiler" Version="2.0.0-alpha1" />
-    <PackageReference Include="DotNetCore.Natasha.CSharpSyntax" Version="2.0.0-alpha1" />
-    <PackageReference Include="DotNetCore.Natasha.Domain" Version="2.0.0-alpha1" />
+
   </ItemGroup>
 
 </Project>

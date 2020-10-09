@@ -23,6 +23,7 @@ namespace FrameworkTest
         {
             HandlerType(typeof(T));
         }
+
         public static void HandlerType(Type type)
         {
 
